@@ -1,18 +1,16 @@
 # gqrx-powermate
 
-Control GQRX with a Griffin Powermate. Built with the powermate python framework - https://github.com/bethebunny/powermate
+Control GQRX with a Griffin Powermate. 
 
-powermate
-=========
+Built with the powermate python framework - https://github.com/bethebunny/powermate
 
+##powermate
 A small python framework for scripting interactions with the Griffin Powermate.
 - Python 2 and 3
 - Any number of powermates
 - Can have more than one script interact with the same powermate
 
-setup
-=====
-
+##setup
 In order to read and write to the Powermate event files on linux, you will need
 to do the following (ymmv, but this should work on most modern distros).
 
